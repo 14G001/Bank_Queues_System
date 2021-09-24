@@ -1,0 +1,7 @@
+George Anderson
+43839383
+0
+9001.96
+C
+
+To add a client, write his data on the "Client Input.txt" file with the shown format.

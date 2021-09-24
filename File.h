@@ -1,0 +1,3 @@
+
+
+void close(FILE* file);
