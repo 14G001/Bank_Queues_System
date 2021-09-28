@@ -23,8 +23,12 @@ MENU OPTIONS:
 To add a new client, you will have to write his data on the "Client Input" file with the following format:
 
 
-Name (George Emmerson)\n
-id (44392883)\n
-operation (1 or 0)\n
-Amount of money (32423.333)\n
+Name (George Emmerson)
+
+id (44392883)
+
+operation (1 or 0)
+
+Amount of money (32423.333)
+
 type (C, P, E o M)
