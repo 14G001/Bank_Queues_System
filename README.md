@@ -17,3 +17,12 @@ MENU OPTIONS:
 3) View queues status.
 4) View specific client info.
 5) Exit.
+
+
+To add a new client, you will have to write his data on the "Client Input" file with the following format:
+
+Name (George Emmerson)
+id (44392883)
+operation (1 or 0)
+Amount of money (32423.333)
+type (C, P, E o M)
